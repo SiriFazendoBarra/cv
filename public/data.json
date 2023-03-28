@@ -42,6 +42,7 @@
             "grade": "Introducción al Desarrollo Web",
             "duration": "Septiembre 2, 2022",
             "link": "https://desafiosdev.s3.amazonaws.com/uploads/certification/image/18361/aprobacion-modulos-cursos-b-learning-introduccion-al-desarrollo-web-g4-12439.png",
+            "logo": "https://desafiosdev.s3.amazonaws.com/uploads/cohort/photo/2103/FDWEB.png",
             "description": "orem, ipsum dolor sit amet consectetur adipisicing elit. Recusandae maxime iusto repellat. Sed incidun orem, ipsum dolor sit amet consectetur adipisicing elit. Recusandae maxime iusto repellat. Sed incidun orem, ipsum dolor sit amet consectetur adipisicing elit. Recusandae maxime iusto repellat. Sed incidun"
         },
         {
@@ -50,6 +51,7 @@
             "grade": "CSS Avanzado",
             "duration": "Septiembre 28, 2022",
             "link": "https://desafiosdev.s3.amazonaws.com/uploads/certification/image/18705/aprobacion-modulos-cursos-b-learning-css-avanzado-g4-12439.png",
+            "logo": "https://desafiosdev.s3.amazonaws.com/uploads/cohort/photo/2150/CSS_AVANZADO_-_NARANJO_BLANCO-02.png",
             "description": "orem, ipsum dolor sit amet consectetur adipisicing elit. Recusandae maxime iusto repellat. Sed incidun"
         },
         {
@@ -58,6 +60,7 @@
             "grade": "JavaScript para la WEb",
             "duration": "Diciembre 7, 2022",
             "link": "https://desafiosdev.s3.amazonaws.com/uploads/certification/image/20156/aprobacion-modulos-cursos-b-learning-javascript-para-la-web-g4-12439.png",
+            "logo": "https://desafiosdev.s3.amazonaws.com/uploads/cohort/photo/2199/TDF04.png",
             "description": "orem, ipsum dolor sit amet consectetur adipisicing elit. Recusandae maxime iusto repellat. Sed incidun"
         },
         {
@@ -66,6 +69,7 @@
             "grade": "React I",
             "duration": "Enero 9, 2023",
             "link": "https://desafiosdev.s3.amazonaws.com/uploads/certification/image/20726/aprobacion-modulos-cursos-b-learning-react-i-g4-12439.png",
+            "logo": "https://desafiosdev.s3.amazonaws.com/uploads/cohort/photo/2254/REACT.png",
             "description": "orem, ipsum dolor sit amet consectetur adipisicing elit. Recusandae maxime iusto repellat. Sed incidun"
         },
         {
@@ -74,6 +78,7 @@
             "grade": "React II",
             "duration": "Febrero 10, 2023",
             "link": "https://desafiosdev.s3.amazonaws.com/uploads/certification/image/21504/aprobacion-modulos-cursos-b-learning-react-ii-g4-12439.png",
+            "logo": "https://desafiosdev.s3.amazonaws.com/uploads/cohort/photo/2316/REACT_II.png",
             "description": "orem, ipsum dolor sit amet consectetur adipisicing elit. Recusandae maxime iusto repellat. Sed incidun"
         }
     ],
