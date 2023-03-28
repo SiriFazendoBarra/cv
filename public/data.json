@@ -1,0 +1,104 @@
+{
+    "name": "Manuel Pérez de Arce",
+    "phone": "9 5247 2382",
+    "email": "manuel.perezdearce@gmail.com",
+    "personalInfo": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Recusandae maxime iusto repellat. Sed incidun",
+    "workExperience": [
+        {
+            "id": "001",
+            "title": "Encargado de administración",
+            "company": "Haken Chile Informática Limitada",
+            "duration": "ene 2012 - abr 2015",
+            "description": "orem, ipsum dolor sit amet consectetur adipisicing elit. Recusandae maxime iusto repellat. Sed incidun orem, ipsum dolor sit amet consectetur adipisicing elit. Recusandae maxime iusto repellat. Sed incidun orem, ipsum dolor sit amet consectetur adipisicing elit. Recusandae maxime iusto repellat. Sed incidun"
+        },
+        {
+            "id": "002",
+            "title": "Encargado de administración",
+            "duration": "2013-2016",
+            "company": "Zonacústica Limitada",
+            "description": "orem, ipsum dolor sit amet consectetur adipisicing elit. Recusandae maxime iusto repellat. Sed incidun"
+        },
+        {
+            "id": "003",
+            "title": "Tecnología denoxx limitada",
+            "duration": "2015-2020",
+            "company": "Tecnología denoxx limitada",
+            "description": "orem, ipsum dolor sit amet consectetur adipisicing elit. Recusandae maxime iusto repellat. Sed incidun"
+        },
+        {
+            "id": "004",
+            "title": "Haken Chile Informática Limitada",
+            "duration": "2020-2022",
+            "company": "Haken Chile Informática Limitada",
+            "description": "orem, ipsum dolor sit amet consectetur adipisicing elit. Recusandae maxime iusto repellat. Sed incidun"
+        }
+    ],
+    "techSkills": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Recusandae maxime iusto repellat. Sed incidun",
+    "interest": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Recusandae maxime iusto repellat. Sed incidun",
+    "certifications": [
+        {
+            "id": "001",
+            "institution": "Desafío Latam",
+            "grade": "Introducción al Desarrollo Web",
+            "duration": "Septiembre 2, 2022",
+            "link": "https://desafiosdev.s3.amazonaws.com/uploads/certification/image/18361/aprobacion-modulos-cursos-b-learning-introduccion-al-desarrollo-web-g4-12439.png",
+            "description": "orem, ipsum dolor sit amet consectetur adipisicing elit. Recusandae maxime iusto repellat. Sed incidun orem, ipsum dolor sit amet consectetur adipisicing elit. Recusandae maxime iusto repellat. Sed incidun orem, ipsum dolor sit amet consectetur adipisicing elit. Recusandae maxime iusto repellat. Sed incidun"
+        },
+        {
+            "id": "002",
+            "institution": "Desafío Latam",
+            "grade": "CSS Avanzado",
+            "duration": "Septiembre 28, 2022",
+            "link": "https://desafiosdev.s3.amazonaws.com/uploads/certification/image/18705/aprobacion-modulos-cursos-b-learning-css-avanzado-g4-12439.png",
+            "description": "orem, ipsum dolor sit amet consectetur adipisicing elit. Recusandae maxime iusto repellat. Sed incidun"
+        },
+        {
+            "id": "003",
+            "institution": "Desafío Latam",
+            "grade": "JavaScript para la WEb",
+            "duration": "Diciembre 7, 2022",
+            "link": "https://desafiosdev.s3.amazonaws.com/uploads/certification/image/20156/aprobacion-modulos-cursos-b-learning-javascript-para-la-web-g4-12439.png",
+            "description": "orem, ipsum dolor sit amet consectetur adipisicing elit. Recusandae maxime iusto repellat. Sed incidun"
+        },
+        {
+            "id": "004",
+            "institution": "Desafío Latam",
+            "grade": "React I",
+            "duration": "Enero 9, 2023",
+            "link": "https://desafiosdev.s3.amazonaws.com/uploads/certification/image/20726/aprobacion-modulos-cursos-b-learning-react-i-g4-12439.png",
+            "description": "orem, ipsum dolor sit amet consectetur adipisicing elit. Recusandae maxime iusto repellat. Sed incidun"
+        },
+        {
+            "id": "005",
+            "institution": "Desafío Latam",
+            "grade": "React II",
+            "duration": "Febrero 10, 2023",
+            "link": "https://desafiosdev.s3.amazonaws.com/uploads/certification/image/21504/aprobacion-modulos-cursos-b-learning-react-ii-g4-12439.png",
+            "description": "orem, ipsum dolor sit amet consectetur adipisicing elit. Recusandae maxime iusto repellat. Sed incidun"
+        }
+    ],
+    "education": [
+        {
+            "id": "001",
+            "institution": "José Victorino Lastarrias",
+            "grade": "Enseñanza Media",
+            "duration": "2003 - 2007",
+            "description": "orem, ipsum dolor sit amet consectetur adipisicing elit. Recusandae maxime iusto repellat. Sed incidun orem, ipsum dolor sit amet consectetur adipisicing elit. Recusandae maxime iusto repellat. Sed incidun orem, ipsum dolor sit amet consectetur adipisicing elit. Recusandae maxime iusto repellat. Sed incidun"
+        },
+        {
+            "id": "002",
+            "institution": "Universidad Tecnológica de Chile INACAP",
+            "grade": "Ingeniería Civil en Sonido y Acústica (titulado)",
+            "duration": "2009 - 2015",
+            "description": "orem, ipsum dolor sit amet consectetur adipisicing elit. Recusandae maxime iusto repellat. Sed incidun"
+        },
+        {
+            "id": "003",
+            "institution": "Desafío Latam (bootcamp)",
+            "grade": "FrontEnd React developer",
+            "duration": "jul 2022 - mar 2023",
+            "description": "orem, ipsum dolor sit amet consectetur adipisicing elit. Recusandae maxime iusto repellat. Sed incidun"
+        }
+    ],
+    "objectives": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Recusandae maxime iusto repellat. Sed incidun"
+}

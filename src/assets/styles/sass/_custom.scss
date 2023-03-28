@@ -1,0 +1,108 @@
+.App {
+    // font-family: 'Aircruiser', sans-serif;
+    font-family: 'Alien League', sans-serif;
+
+    font-size: 18px;
+    padding-block: 2rem;
+    background-color: $black;
+    background-image: url("/bg.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+    .home {
+        max-width: 1200px;
+        text-align: justify;
+        // background-color: rgb(31, 66, 135, 0.3);
+        background-color: rgb(7, 30, 61, 0.6);
+        ;
+    }
+}
+
+a {
+    text-decoration: none;
+    color: $light;
+
+    &:hover {
+        color: $light;
+    }
+}
+
+.selfi {
+
+    width: 100%;
+    opacity: 0.6;
+
+}
+
+
+
+.h4,
+.h2,
+.h1 {
+
+    background-color: rgb(31, 66, 135, 0.2);
+    font-family: 'Aircruiser', sans-serif
+}
+
+.article {
+    background-color: rgb(31, 66, 135, 0.2);
+    padding: 8px;
+
+}
+
+// p {
+//     background-color: rgb(31, 66, 135, 0.2);
+// }
+
+.text-shadow-dark {
+    text-shadow: 0 0 0.3rem $light, 0 0 0.5rem $black;
+}
+
+.text-shadow-dark-soft {
+    text-shadow: 0 0 2.4rem $light;
+    //  0 0 0.4rem $black;
+}
+
+
+.border-box-app {
+    box-shadow: 0 0 1rem 0.1rem $white,
+        0 0 1rem 0.2rem $white,
+        0 0 2rem 0.3rem $light,
+        0 0 3rem 0.5rem $primary,
+        0 0 4rem 1rem rgb(31, 66, 135, 0.5),
+        0 0 4rem 1rem rgb(31, 66, 135, 0.5),
+
+        inset 0 0 0.2rem $white,
+        inset 0 0 20px $white,
+        inset 0 0 20px $light,
+        inset 0 0 400px $primary,
+        inset 0 0 500px rgb(31, 66, 135, 0.5),
+        inset 0 0 500px rgb(31, 66, 135, 0.5),
+}
+
+.border-box {
+    box-shadow: 0 0 0.2rem $white,
+        0 0 0.5rem $primary,
+        0 0 0.8rem $secondary,
+        0 0 1rem $dark,
+        inset 0 0 0.2rem $white,
+        inset 0 0 20px $white,
+        inset 0 0 20px $light,
+        inset 0 0 400px $primary,
+        inset 0 0 500px rgb(31, 66, 135, 0.5),
+        inset 0 0 500px rgb(31, 66, 135, 0.5),
+}
+
+.border-box-soft {
+    padding: 1rem;
+    box-shadow: 0 0 0.1rem $white,
+        0 0 0.2rem $primary,
+        0 0 0.3rem $secondary,
+        0 0 0.5rem $dark,
+        inset 0 0 0.1rem $white,
+        inset 0 0 0.2rem $white,
+        inset 0 0 0.5rem $light,
+        inset 0 0 1rem $primary,
+        inset 0 0 2rem rgb(31, 66, 135, 0.5),
+}

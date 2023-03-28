@@ -1,0 +1,11 @@
+$primary: rgb(31, 66, 135);
+$secondary: #278EA5;
+$dark: rgb(7, 30, 61);
+$light: #21E6C1;
+
+$theme-colors: (
+    "primary": $primary,
+    "secondary":$secondary,
+    "light":$light,
+    "dark": $dark,
+    ) !default;
