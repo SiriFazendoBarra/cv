@@ -10468,6 +10468,10 @@ a:hover {
   padding: 8px;
 }
 
+.card {
+  min-width: 145px;
+}
+
 .text-shadow-dark {
   text-shadow: 0 0 0.3rem #21E6C1, 0 0 0.5rem #000;
 }
