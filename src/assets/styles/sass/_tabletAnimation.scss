@@ -1,0 +1,52 @@
+.tabletAnimation {
+    filter: blur(0px);
+    animation-name: tabletAnimation;
+    animation-duration: 3s;
+    animation-delay: 5s;
+    animation-iteration-count: infinite;
+
+}
+
+@keyframes tabletAnimation {
+
+
+    12% {
+        filter: blur(0px);
+    }
+
+    13% {
+        filter: blur(3px);
+    }
+
+    14% {
+        filter: blur(0px);
+    }
+
+    15% {
+        filter: blur(0px);
+    }
+
+    18% {
+        filter: blur(3px);
+        filter: grayscale(100);
+    }
+
+    19% {
+        filter: blur(0px);
+    }
+
+
+
+    80% {
+        filter: blur(0px);
+    }
+
+    81% {
+        filter: blur(3px);
+        filter: sepia(10);
+    }
+
+    82% {
+        filter: blur(0px);
+    }
+}
