@@ -2,7 +2,7 @@
     box-shadow: 0 0 8px 2px $light;
     filter: blur(0px);
     animation-name: filterPic;
-    animation-duration: 3s;
+    animation-duration: 15s;
     animation-delay: 5s;
     animation-iteration-count: infinite;
 
@@ -13,6 +13,21 @@
 
     49% {
         filter: blur(0px);
+
+        @keyframes filterPic {
+            50% {
+                filter: blur(0px);
+            }
+
+            51% {
+                filter: blur(3px);
+            }
+
+            55% {
+                filter: blur(0px);
+            }
+        }
+
     }
 
     50% {
@@ -51,12 +66,5 @@
     82% {
         filter: blur(0px);
     }
-
-
-
-
-
-
-
 
 }
