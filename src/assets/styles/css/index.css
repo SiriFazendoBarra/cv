@@ -10482,19 +10482,19 @@ a:hover {
 
 .border-box-app {
   animation-name: border-box-app;
-  animation-duration: 7s;
+  animation-duration: 8s;
   animation-iteration-count: infinite;
   animation-timing-function: ease;
-  animation-delay: 2s;
+  animation-delay: 1s;
   box-shadow: 0 0 1rem 0.1rem #fff, 0 0 1rem 0.2rem #fff, 0 0 2rem 0.3rem #21E6C1, 0 0 3rem 0.5rem rgb(31, 66, 135), 0 0 4rem 1rem rgba(31, 66, 135, 0.5), 0 0 4rem 1rem rgba(31, 66, 135, 0.5), inset 0 0 1rem #fff, inset 0 0 20px #fff, inset 0 0 20px #21E6C1, inset 0 0 400px rgb(31, 66, 135), inset 0 0 500px rgba(31, 66, 135, 0.5), inset 0 0 500px rgba(31, 66, 135, 0.5);
 }
 
 @keyframes border-box-app {
   50% {
-    box-shadow: 0 0 25px 0.5px #fff, 0 0 50px 7px #fff, 0 0 100px 3px #21E6C1, 0 0 200px 4px rgb(31, 66, 135), 0 0 200px 17px rgba(31, 66, 135, 0.5), 0 0 200px 8px rgba(31, 66, 135, 0.5), inset 0 0 1.3rem #fff, inset 0 0 20px #fff, inset 0 0 16px #21E6C1, inset 0 0 100px rgb(31, 66, 135), inset 0 0 400px rgba(31, 66, 135, 0.5), inset 0 0 200px rgba(31, 66, 135, 0.5);
+    box-shadow: 0 0 25px 0.2px #fff, 0 0 50px 2px #fff, 0 0 100px 11px #21E6C1, 0 0 200px 11px rgb(31, 66, 135), 0 0 200px 3px rgba(31, 66, 135, 0.5), 0 0 200px 7px rgba(31, 66, 135, 0.5), inset 0 0 1.4rem #fff, inset 0 0 9px #fff, inset 0 0 17px #21E6C1, inset 0 0 400px rgb(31, 66, 135), inset 0 0 400px rgba(31, 66, 135, 0.5), inset 0 0 500px rgba(31, 66, 135, 0.5);
   }
   75% {
-    box-shadow: 0 0 25px 1px #fff, 0 0 50px 1px #fff, 0 0 100px 9px #21E6C1, 0 0 200px 6px rgb(31, 66, 135), 0 0 130px 29px rgba(31, 66, 135, 0.5), 0 0 150px 1px rgba(31, 66, 135, 0.5), inset 0 0 1.5rem #fff, inset 0 0 3px #fff, inset 0 0 16px #21E6C1, inset 0 0 100px rgb(31, 66, 135), inset 0 0 200px rgba(31, 66, 135, 0.5), inset 0 0 100px rgba(31, 66, 135, 0.5);
+    box-shadow: 0 0 25px 0.6px #fff, 0 0 50px 5px #fff, 0 0 100px 2px #21E6C1, 0 0 200px 10px rgb(31, 66, 135), 0 0 130px 27px rgba(31, 66, 135, 0.5), 0 0 150px 45px rgba(31, 66, 135, 0.5), inset 0 0 0.4rem #fff, inset 0 0 5px #fff, inset 0 0 5px #21E6C1, inset 0 0 400px rgb(31, 66, 135), inset 0 0 100px rgba(31, 66, 135, 0.5), inset 0 0 200px rgba(31, 66, 135, 0.5);
   }
 }
 .border-box {
