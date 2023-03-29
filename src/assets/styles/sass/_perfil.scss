@@ -1,4 +1,5 @@
 .filterPic {
+    box-shadow: 0 0 8px 2px $light;
     filter: blur(0px);
     animation-name: filterPic;
     animation-duration: 3s;
@@ -33,6 +34,7 @@
 
     58% {
         filter: blur(0px);
+        box-shadow: 0 0 10px 1px $light;
     }
 
 

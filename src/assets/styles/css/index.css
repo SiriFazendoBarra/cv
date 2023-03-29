@@ -10482,7 +10482,7 @@ a:hover {
 
 .border-box-app {
   animation-name: border-box-app;
-  animation-duration: 9s;
+  animation-duration: 11s;
   animation-iteration-count: infinite;
   animation-timing-function: ease;
   animation-delay: 2s;
@@ -10491,10 +10491,10 @@ a:hover {
 
 @keyframes border-box-app {
   50% {
-    box-shadow: 0 0 25px 0.5px #fff, 0 0 50px 7px #fff, 0 0 100px 12px #21E6C1, 0 0 200px 16px rgb(31, 66, 135), 0 0 200px 18px rgba(31, 66, 135, 0.5), 0 0 200px 11px rgba(31, 66, 135, 0.5), inset 0 0 0.1rem #fff, inset 0 0 1px #fff, inset 0 0 11px #21E6C1, inset 0 0 300px rgb(31, 66, 135), inset 0 0 300px rgba(31, 66, 135, 0.5), inset 0 0 400px rgba(31, 66, 135, 0.5);
+    box-shadow: 0 0 25px 0.2px #fff, 0 0 50px 1px #fff, 0 0 100px 2px #21E6C1, 0 0 200px 20px rgb(31, 66, 135), 0 0 200px 10px rgba(31, 66, 135, 0.5), 0 0 200px 17px rgba(31, 66, 135, 0.5), inset 0 0 1.7rem #fff, inset 0 0 6px #fff, inset 0 0 4px #21E6C1, inset 0 0 300px rgb(31, 66, 135), inset 0 0 500px rgba(31, 66, 135, 0.5), inset 0 0 200px rgba(31, 66, 135, 0.5);
   }
   75% {
-    box-shadow: 0 0 25px 0.5px #fff, 0 0 50px 1px #fff, 0 0 100px 9px #21E6C1, 0 0 200px 7px rgb(31, 66, 135), 0 0 130px 2px rgba(31, 66, 135, 0.5), 0 0 150px 12px rgba(31, 66, 135, 0.5), inset 0 0 0.5rem #fff, inset 0 0 14px #fff, inset 0 0 6px #21E6C1, inset 0 0 500px rgb(31, 66, 135), inset 0 0 100px rgba(31, 66, 135, 0.5), inset 0 0 100px rgba(31, 66, 135, 0.5);
+    box-shadow: 0 0 25px 0.4px #fff, 0 0 50px 2px #fff, 0 0 100px 9px #21E6C1, 0 0 200px 6px rgb(31, 66, 135), 0 0 130px 50px rgba(31, 66, 135, 0.5), 0 0 150px 56px rgba(31, 66, 135, 0.5), inset 0 0 0.4rem #fff, inset 0 0 12px #fff, inset 0 0 15px #21E6C1, inset 0 0 500px rgb(31, 66, 135), inset 0 0 100px rgba(31, 66, 135, 0.5), inset 0 0 300px rgba(31, 66, 135, 0.5);
   }
 }
 .border-box {
@@ -10507,6 +10507,7 @@ a:hover {
 }
 
 .filterPic {
+  box-shadow: 0 0 8px 2px #21E6C1;
   filter: blur(0px);
   animation-name: filterPic;
   animation-duration: 3s;
@@ -10533,6 +10534,7 @@ a:hover {
   }
   58% {
     filter: blur(0px);
+    box-shadow: 0 0 10px 1px #21E6C1;
   }
   80% {
     filter: blur(0px);
