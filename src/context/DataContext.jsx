@@ -5,6 +5,7 @@ const DataContext = createContext()
 export default function DataProvider({ children }) {
 
     const [data, setData] = useState([])
+
     const getData = async () => {
         const res = await fetch('/data.json')
         const data = await res.json()

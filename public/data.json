@@ -2,35 +2,35 @@
     "name": "Manuel Pérez de Arce",
     "phone": "9 5247 2382",
     "email": "manuel.perezdearce@gmail.com",
-    "personalInfo": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Recusandae maxime iusto repellat. Sed incidun",
+    "personalInfo": "Soy un profesional de Ingeniería Civil con más de 10 años de experiencia como Jefe de Operaciones, Gestor de Proyectos y Gestion Comercial. ",
     "workExperience": [
         {
             "id": "001",
-            "title": "Encargado de administración",
+            "title": "Jefe de Operaciones",
             "company": "Haken Chile Informática Limitada",
             "duration": "ene 2012 - abr 2015",
-            "description": "orem, ipsum dolor sit amet consectetur adipisicing elit. Recusandae maxime iusto repellat. Sed incidun orem, ipsum dolor sit amet consectetur adipisicing elit. Recusandae maxime iusto repellat. Sed incidun orem, ipsum dolor sit amet consectetur adipisicing elit. Recusandae maxime iusto repellat. Sed incidun"
+            "description": "Encargado de implementar los procesos para la realización de los proyectos vendidos por la compañía en el área de las tecnologías y telecomunicaciones. Backup de Gerencia y gestiones comerciales."
         },
         {
             "id": "002",
-            "title": "Encargado de administración",
+            "title": "Jefe Operaciones",
             "duration": "2013-2016",
             "company": "Zonacústica Limitada",
-            "description": "orem, ipsum dolor sit amet consectetur adipisicing elit. Recusandae maxime iusto repellat. Sed incidun"
+            "description": "Emprendimiento de cuatro socios fundado para la realización de proyectos de ingeniería en el área de acústica, cumplimiento de normativa DS38/11 del MMA, Diseño y realización de proyecto Museo Violeta Parra en efectos de sonido y ambiente. Encargado del área financiera y contable de la compañia."
         },
         {
             "id": "003",
-            "title": "Tecnología denoxx limitada",
-            "duration": "2015-2020",
+            "title": "Jefe de Proyectos",
+            "duration": "abril 2015 - marzo 2020",
             "company": "Tecnología denoxx limitada",
-            "description": "orem, ipsum dolor sit amet consectetur adipisicing elit. Recusandae maxime iusto repellat. Sed incidun"
+            "description": "Comencé como Jefe de Operaciones en la sucursal Santiago, encargado de la implementación de los procesos y gestión de los mismos para la realización de los proyectos vendidos por el área Comercial de la compañia, normalmente desde casa matriz ubicada en Viña del Mar. Posteriormente, desde abril 2019 hasta marzo 2020, me desempeñé como Jefe de Proyectos en la realización y cumplimiento de contrato para la construcción del edificio Hospital Félix Bulnes, en el área de las telecomunicaciones."
         },
         {
             "id": "004",
-            "title": "Haken Chile Informática Limitada",
-            "duration": "2020-2022",
+            "title": "Ejecutivo Comercial y gestión operacional",
+            "duration": "agosto 2020 - junio 2022",
             "company": "Haken Chile Informática Limitada",
-            "description": "orem, ipsum dolor sit amet consectetur adipisicing elit. Recusandae maxime iusto repellat. Sed incidun"
+            "description": "Responsable comercial de las cuentas de clientes asignadas, sus requerimientos al día y monitoreo de los procesos y sus etapas en cada uno de los proyectos. Apertura de nuevas cuentas y gestión operacional"
         }
     ],
     "techSkills": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Recusandae maxime iusto repellat. Sed incidun",

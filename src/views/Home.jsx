@@ -9,16 +9,15 @@ export default function Home() {
 
     const { data } = useDataContext()
 
-
     return (
-        <div className="home container text-light text-shadow-dark-soft">
+        <div className="home container text-light text-shadow-dark-soft p-0">
 
             <div className="border-box-app p-3 py-4 rounded d-flex flex-wrap gap-3 gap-md-0 justify-content-evenly">
                 <p className="h1 col-12 text-center mb-4">Perfil Profesional</p>
                 <div className="d-flex flex-column border-box-sof rounded col-12 col-md-4 px-3">
                     <div className="d-flex flex-wrap gap-3 article">
                         <div className="border-box-ap rounded" >
-                            <img className="col-12 img-fluid rounded selfi " id="pic" src="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/hc_480x270/public/media/image/2013/03/213083-starcraft-2-wings-liberty-mitad-precio.jpg?itok=CBUz1E-j" alt="" />
+                            <img className="col-12 img-fluid rounded selfi filterPic " id="pic" src="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/hc_480x270/public/media/image/2013/03/213083-starcraft-2-wings-liberty-mitad-precio.jpg?itok=CBUz1E-j" alt="" />
                         </div>
 
                         <p className="h2 col-12"> {data.name}</p>
@@ -76,6 +75,11 @@ export default function Home() {
                     <div className="col-12 article" name="certifications">
                         <Certifications />
                     </div>
+                    <div className="col-12 article div" name="">
+                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Esse quaerat iste sed itaque iusto tempore voluptates fuga hic tenetur culpa obcaecati quos quasi accusamus numquam reprehenderit, accusantium perspiciatis maiores. Neque.</p>
+                    </div>
+                    {/* <iframe src="https://www.youtube.com/embed/UN6wWphtRpk" title="Awakening - [Short Cinematic Soundtracks] - 30 seconds Epic Uplifting Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> */}
+                    {/* <audio className='opacity-50' autoPlay="true" controls="true" loop="true" src="/btheme.mp3"></audio> */}
                 </div>
             </div>
         </div >
