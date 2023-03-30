@@ -12,13 +12,13 @@ export default function Home() {
 
     return (
         <div className="home container text-light text-shadow-dark-soft text-shadow-animated p-0">
-            <div className='border-box-app rounded'>
+            <div className='border-box-app rounded-4'>
                 <div className=" py-4 rounded d-flex flex-wrap gap-3 gap-md-0 justify-content-evenly tabletAnimation">
                     <p className="h1 col-12 text-center mb-4 w-md-100 w-75 text-shadow-animated">Perfil Profesional</p>
                     <div className="d-flex flex-column border-box-sof rounded col-12 col-md-4 px-3">
                         <div className="d-flex flex-wrap gap-3 article">
                             <div className="border-box-ap rounded" >
-                                <img className="col-12 img-fluid rounded selfi filterPic " id="pic" src="perfil.jfif" alt="" />
+                                <img className="col-12 img-fluid rounded selfi filterPic " id="pic" src="perfil2.jfif" alt="" />
                             </div>
 
                             <p className="h2 col-12"> {data.name}</p>
@@ -44,8 +44,8 @@ export default function Home() {
                                     </div>
 
                                 </div>
-                            </div>
-                        </div>
+                            </div >
+                        </div >
                         <div className="article">
                             <p className="h4 text-shadow-animated">Información Personal</p>
                             <p>
@@ -73,7 +73,7 @@ export default function Home() {
 
                         </div>
 
-                    </div>
+                    </div >
                     <div className="d-flex flex-column border-box-sof rounded col-12 col-md-8 gap-3 px-3">
                         <div className="col-12 article" name="experience">
                             <Experience />
@@ -86,7 +86,7 @@ export default function Home() {
                         </div>
 
                     </div>
-                </div>
+                </div >
             </div >
         </div >
 
