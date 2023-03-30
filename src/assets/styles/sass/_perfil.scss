@@ -2,8 +2,7 @@
     box-shadow: 0 0 8px 2px $light;
     filter: blur(0px);
     animation-name: filterPic;
-    animation-duration: 15s;
-    animation-delay: 5s;
+    animation-duration: 10s;
     animation-iteration-count: infinite;
 
 }
@@ -56,15 +55,35 @@
 
     80% {
         filter: blur(0px);
+
     }
 
     81% {
         filter: blur(3px);
         filter: sepia(10);
+
+
+
+        @keyframes filterPic {
+            25% {
+                transform: translate(0px, 0px)
+            }
+
+            51% {
+
+                transform: translate(10px, 10px);
+            }
+
+            75% {
+                transform: translate(0px, 0px);
+            }
+        }
+
     }
 
     82% {
         filter: blur(0px);
+
     }
 
 }
