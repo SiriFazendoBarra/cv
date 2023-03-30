@@ -59,13 +59,44 @@ a {
 
 .text-shadow-dark-soft {
     text-shadow: 0 0 2.4rem $light;
-    //  0 0 0.4rem $black;
+
+}
+
+.text-shadow-animated {
+
+    animation-name: text-shadow-animated;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    text-shadow: 0 0 32px rgb(33, 230, 193, 0.5);
+}
+
+@keyframes text-shadow-animated {
+    13% {
+        text-shadow: 0 0 24px rgb(33, 230, 193, 0.3);
+    }
+
+    50% {
+        text-shadow: 0 0 24px rgb(33, 230, 193, 0.3);
+    }
+
+    51% {
+        text-shadow: 8px 8px 8px rgba(253, 135, 0, 0.3);
+    }
+
+    52% {
+        text-shadow: 0 0 24px rgb(33, 230, 193, 0.3);
+    }
+
+
+    66% {
+        text-shadow: 0 0 64px rgb(33, 230, 193, 0.4);
+    }
 }
 
 
 .border-box-app {
     animation-name: border-box-app;
-    animation-duration: random(8)+4 + s;
+    animation-duration: 20 + s;
     animation-iteration-count: infinite;
     animation-timing-function: ease;
     animation-delay: random(2) + s;

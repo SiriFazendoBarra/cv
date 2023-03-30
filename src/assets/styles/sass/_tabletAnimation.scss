@@ -1,13 +1,13 @@
 .tabletAnimation {
     filter: blur(0px);
-    animation-name: filterPic;
-    animation-duration: 3s;
+    animation-name: tabletAnimation;
+    animation-duration: 10s;
     animation-delay: 5s;
     animation-iteration-count: infinite;
 
 }
 
-@keyframes filterPic {
+@keyframes tabletAnimation {
 
 
     12% {
@@ -28,7 +28,7 @@
 
     18% {
         filter: blur(3px);
-        filter: grayscale(100);
+        filter: grayscale(50%);
     }
 
     19% {
@@ -43,7 +43,7 @@
 
     81% {
         filter: blur(3px);
-        filter: sepia(10);
+        filter: sepia(5%);
     }
 
     82% {

@@ -7,7 +7,7 @@ export default function Education() {
 
     return (
         <>
-            <p className="h4">Educación</p>
+            <p className="h4 text-shadow-animated">Educación</p>
             {
                 data.education ?
                     data.education.reverse().map((item) => {

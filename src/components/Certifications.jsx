@@ -7,7 +7,7 @@ export default function Certificacions() {
 
     return (
         <>
-            <p className="h4">Certificaciones</p>
+            <p className="h4 text-shadow-animated">Certificaciones</p>
             <div className='d-flex flex-wrap justify-content-evenly py-3'>
                 {
                     data.certifications ?

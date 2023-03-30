@@ -7,7 +7,7 @@ export default function Experience() {
 
     return (
         <>
-            <p className="h4">Experiencia</p>
+            <p className="h4 text-shadow-animated">Experiencia</p>
             <div className='d-flex flex-wrap justify-content-evenly py-3'>
                 {
                     data.workExperience ?
