@@ -1,5 +1,6 @@
 import { BsGithub, BsLinkedin, BsFillPhoneFill } from 'react-icons/bs'
 import { GrMail } from 'react-icons/gr'
+import { AiFillFilePdf } from 'react-icons/ai'
 import Certifications from '../components/Certifications'
 import Experience from '../components/Experience'
 import Education from '../components/Education'
@@ -17,7 +18,7 @@ export default function Home() {
                     <div className="d-flex flex-column border-box-sof rounded col-12 col-md-4 px-3">
                         <div className="d-flex flex-wrap gap-3 article">
                             <div className="border-box-ap rounded" >
-                                <img className="col-12 img-fluid rounded selfi filterPic " id="pic" src="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/hc_480x270/public/media/image/2013/03/213083-starcraft-2-wings-liberty-mitad-precio.jpg?itok=CBUz1E-j" alt="" />
+                                <img className="col-12 img-fluid rounded selfi filterPic " id="pic" src="perfil.jfif" alt="" />
                             </div>
 
                             <p className="h2 col-12"> {data.name}</p>
@@ -31,9 +32,17 @@ export default function Home() {
                                     <p className='m-0'>correo: {data.email}</p>
                                     <GrMail className='col-1' />
                                 </div>
-                                <div className='d-flex justify-content-center gap-3 fs-2'>
-                                    <a href="https://github.com/SiriFazendoBarra" target="_blank" className=''><BsGithub role="butto" /></a>
-                                    <a href="https://www.linkedin.com/in/manuelperezdearce/" target="_blank" className=''><BsLinkedin className='' /></a>
+                                <div className='d-flex justify-content-evenly gap-3 fs-2'>
+                                    <div className='d-flex justify-content-between gap-3'>
+                                        <a href="https://github.com/SiriFazendoBarra" target="_blank" className=''><BsGithub role="butto" /></a>
+                                        <a href="https://www.linkedin.com/in/manuelperezdearce/" target="_blank" className=''><BsLinkedin className='' /></a>
+                                    </div>
+
+                                    <div className='d-flex justify-content-between'>
+                                        <p>CV: </p>
+                                        <a href="https://drive.google.com/drive/u/1/folders/1aXog9DdPQQY7n1hBohWTDlVs_cmawx-O" target="_blank" className=''><AiFillFilePdf className='' /></a>
+                                    </div>
+
                                 </div>
                             </div>
                         </div>
@@ -79,7 +88,7 @@ export default function Home() {
                     </div>
                 </div>
             </div >
-        </div>
+        </div >
 
 
 
