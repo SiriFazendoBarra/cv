@@ -80,6 +80,15 @@
             "link": "https://desafiosdev.s3.amazonaws.com/uploads/certification/image/21504/aprobacion-modulos-cursos-b-learning-react-ii-g4-12439.png",
             "logo": "https://desafiosdev.s3.amazonaws.com/uploads/cohort/photo/2316/REACT_II.png",
             "description": "orem, ipsum dolor sit amet consectetur adipisicing elit. Recusandae maxime iusto repellat. Sed incidun"
+        },
+        {
+            "id": "006",
+            "institution": "Desafío Latam",
+            "grade": "Desarrollador FrontEnd React",
+            "duration": "Abirl 03, 2023",
+            "link": "https://desafiosdev.s3.amazonaws.com/uploads/certification/image/22264/aprobacion-final-proyecto-final-g4-12439.png",
+            "logo": "https://desafiosdev.s3.amazonaws.com/uploads/cohort/photo/2377/PROYECTO_FINAL.png",
+            "description": "orem, ipsum dolor sit amet consectetur adipisicing elit. Recusandae maxime iusto repellat. Sed incidun"
         }
     ],
     "education": [
